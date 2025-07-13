@@ -93,8 +93,8 @@ See the full license in [LICENSE](LICENSE) or at [https://www.gnu.org/licenses/g
 
 ## 👤 Author
 
-**Your Name**
-[GitHub](https://github.com/yourusername)
+**Ian Ellis**
+[GitHub](https://github.com/magicalbob)
 Feel free to fork, improve, and reuse.
 
 ---
@@ -102,10 +102,3 @@ Feel free to fork, improve, and reuse.
 ````
 
 ---
-
-### 📎 Notes:
-- Replace `yourusername` with your actual GitHub username.
-- Consider adding a `LICENSE` file with the full GPLv3 text if you haven’t already:
-  ```bash
-  curl -o LICENSE https://www.gnu.org/licenses/gpl-3.0.txt
-````
