@@ -1,0 +1,24 @@
+[project]
+name = "example_app"
+version = "0.1.0"
+description = "A minimal CLI tool to print all prime numbers below a given maximum."
+readme = "README.md"
+requires-python = ">=3.7"
+license = { text = "GPL-3.0-or-later" }
+authors = [
+    { name = "Ian Ellis", email = "ellisiana@gmail.com" }
+]
+keywords = ["prime", "cli", "argparse", "educational", "math"]
+
+[project.urls]
+Homepage = "https://github.com/magicalbob/example_app"
+Repository = "https://github.com/magicalbob/example_app"
+Issues = "https://github.com/magicalbob/example_app/issues"
+
+[tool.setuptools]
+packages = ["example_app"]
+package-dir = { "" = "src" }
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
